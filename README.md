@@ -190,7 +190,7 @@ Entry for a prompt-engineering mini-challenge focused on crafting and iterating 
 
 <img src="https://raw.githubusercontent.com/AbhishekK7860/AbhishekK7860/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%" />
 
-*(Renders after the included GitHub Action runs once — see setup instructions below.)*
+
 
 </div>
 
